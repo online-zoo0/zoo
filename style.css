@@ -1,0 +1,28 @@
+#instagram{
+    fill: rgb(145, 63, 63);
+}
+#twitter{
+    fill: rgb(112, 6, 6);
+    color: red;
+}
+#twitter:hover{
+    fill: rgb(24, 112, 6);
+    color: green;
+}
+#facebook{
+    fill: aqua;
+}
+#facebook:hover{
+    fill: rgb(38, 0, 255);
+}
+.icon{
+    /* fill: greenyellow; */
+    color:red;
+}
+.icon:hover path{
+    /* fill: blue; */
+    color: yellow;
+}
+.twitter{
+    fill: rgb(0, 4, 255);
+}
